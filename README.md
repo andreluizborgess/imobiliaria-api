@@ -47,6 +47,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE), o que significa que 
 
 Em caso de dúvidas, sugestões ou problemas, sinta-se à vontade para entrar em contato através do email:guilherme.3110@hotmail.com.
 
-**Aviso**: Certifique-se de substituir "guilealp" no link de clonagem e "guilherme.3110@hotmail.com" na seção de contato pelos valores correspondentes do seu próprio usuário do GitHub e endereço de e-mail.
+**Aviso**: Certifique-se de substituir "andreluizborgess" no link de clonagem e "andreluizborges1995@gmail.com" na seção de contato pelos valores correspondentes do seu próprio usuário do GitHub e endereço de e-mail.
 
 Este é apenas um modelo básico de README.md, você pode adaptar e melhorar conforme suas necessidades específicas de projeto. Certifique-se de incluir informações importantes sobre como configurar, executar e testar os exercícios, bem como qualquer outra documentação relevante para tornar o repositório mais amigável e útil para outros desenvolvedores.
