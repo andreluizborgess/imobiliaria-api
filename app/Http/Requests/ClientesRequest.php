@@ -25,10 +25,10 @@ class ClientesRequest extends FormRequest
     {return [
          
         'nome' => 'required|max:80|min:5',
-        'cpf'=> 'required|max:11|min:11|unique:usuarios,cpf',
+        'cpf'=> 'required|max:11|min:11|unique:clientes,cpf',
         'celular' => 'required|max:15|min:10',
-        'email'=> 'required|email|unique:usuarios,email',
-        'data de nacimento'=>'required|max:10|min:10',
+        'email'=> 'required|email|unique:clientes,email',
+        'data de nascimento'=>'required|max:10|min:10',
         'cep' =>'required|max:8|min:8',
         'endereço'=> 'required',
         'bairro'=> 'required',

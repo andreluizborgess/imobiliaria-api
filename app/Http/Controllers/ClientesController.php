@@ -23,4 +23,7 @@ class ClientesController extends Controller
             "data"    => $user
         ], 200);
     }
+    public function pesquisaPorId($id){
+        return ClientesModel::find($id);
+    }
 }
